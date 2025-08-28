@@ -7,5 +7,9 @@ public class Main {
         System.out.println("git commit -m");
         System.out.println("git push origin");
 
+
+        System.out.println("juan jose castro amaya");
+        System.out.println("vivo en cajicá - cundinamarca");
+        System.out.println("tengo un perro ");
     }
 }
